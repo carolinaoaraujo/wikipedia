@@ -1,3 +1,8 @@
 .list{
   text-align: right;
 }
+img{
+  float: left;
+  width:100px;
+  height: auto;
+}
